@@ -1,28 +1,28 @@
 ll
-rm fish_notes.backup fish_notes.txt sorted_notes.txt 
-pwd
-cd notebook/
+rm fish_notes.backup fish_notes.txt sorted_notes.txt
+pwd showing current working directory
+cd notebook/ change directory to notebook
 cd Projects/week01/
-git --version
+git --version right version of showing git version
 git -version
 git -v
-git -V
-~
-javascripting 
+git -V it is not working for this program
+~ change directory to home page
+javascripting
 ..
 npm install -g javascripting
 cd javascripting/
 git clone https://github.com/PaulMill/javascripting.git
 echo "Jeremy Bowers" | md5 | grep -qif /dev/stdin encoded; and echo CORRECT\! GREAT WORK, GUMSHOE.; or echo SORRY, TRY AGAIN.
 grep -qi "Jeremy Bowers" encoded; and echo CORRECT\! GREAT WORK, GUMSHOE.; or echo SORRY, TRY AGAIN.
-cat solution 
+cat solution
 cd clmystery/
-cd paulmill.surge.sh/
+cd paulmill.surge.sh/ open directory on Surge
 `
 ll..
 la
 cd memberships/
-cat vehicles | grep 'L337' -A 6
+cat vehicles | grep 'L337' -A 6 looking for some info in file vehicles
 cat interview-699607
 cd interviews/
 head -n 179 Buckingham_Place | tail -n 1
@@ -30,11 +30,11 @@ head -n 179 Buckingham Place | tail -n 1
 cd streets/
 cat people | grep 'Annabel'
 less crimescene | grep "CLUE"
-less crimescene 
+less crimescene
 cd mystery/
 l
-cat instructions 
-cat README.md 
+cat instructions
+cat README.md
 cd ..
 cat interview-904020
 head -n 224 Andover_Road | tail -n 1
@@ -57,16 +57,16 @@ cat peoples | grep 'Anabel'
 cd streets
 cat crimescene | grep 'CLUE'
 cat peoples | grep 'Jeremy'
-cat vehicles | grep 'L3375A9' -A --label 
+cat vehicles | grep 'L3375A9' -A --label
 cat vehicles | grep 'L3375A9' -A
 cat vehicles | grep 'L3375A9'
 cat crimescene
 cat vehicles | sort 'Owner'
-cat vehicles | sort 
+cat vehicles | sort
 cat vehicles | grep 'Anabel'
 cat vehicles | grep 'Anabel' -
 cat vehicles | head -n 173
-cat vehicles | head -n 
+cat vehicles | head -n
 cat hint5
 cat Delta_SkyMiles | grep 'Annabel'
 cat hint4
@@ -79,19 +79,19 @@ cat Museum_of_Bash_History | grep 'Anabel'
 cat Delta_SkyMiles | grep 'CLUE'
 less people
 cat people
-cat crimescene 
-less README.md 
+cat crimescene
+less README.md
 git clone https://github.com/PaulMill/clmystery.git
-cp fish_notes.txt fish_notes.backup 
+cp fish_notes.txt fish_notes.backup
 mv notes.txt fish_notes.txt
 cat notes.txt | sort > sorted_notes.txt
 cat notes.txt | sort | grep 'brew'
 cat notes.txt | sort
-cat notes.txt 
+cat notes.txt
 history >> notes.txt
-less notes.txt 
+less notes.txt
 history
-rm notes.txt 
+rm notes.txt
 touch notes.txt
 LL
 sdafaS
@@ -114,7 +114,7 @@ la -S
 cd ~/Downloads/
 la S
 man tree
-tree man 
+tree man
 tree ~
 brew install tree
 echo ~
@@ -153,8 +153,8 @@ git add CNAME
 atom .
 touch CNAME
 git commit -m 'Add a tiny web page'
-git add index.html 
-open index.html 
+git add index.html
+open index.html
 touch index.html
 git init
 git unit
@@ -164,12 +164,12 @@ mkdir -p ~/Projects/week01
 mkdir ~/Projects/week01
 surge -V
 npm install -g surge
-rm ~/Desktop/test.js 
-node ~/Desktop/test.js 
+rm ~/Desktop/test.js
+node ~/Desktop/test.js
 atom ~/Desktop/test.js
 node -v
 brew install node
-cat ~/.gitconfig 
+cat ~/.gitconfig
 curl -fsSL https://git.io/vXOvh | sh
 git config --global user.email 'usa.paul@icloud.com'
 git config --global user.name 'PaulMill'
@@ -227,7 +227,7 @@ cd 111
 cd documents
 cd ../..
 cd ~/documents
-cd 
+cd
 pdw
 cd /homepwd
 cd /home/paul
@@ -239,12 +239,12 @@ ls /Desctop
 mkfile 1b 123.txt
 mkfile 123.txt
 cd Desktop/
-cd Decktop/
+cd Decktop/ was
 cd decktop/
 dir
 install bootstrap
 git clone https://github.com/twbs/bootstrap.git
-install 
+install
 > test.txt
 documents cd
 sublime text
